@@ -1,5 +1,5 @@
-## Kaggle Challenges
-A collection of submissions of exploratory data analysis and actual solutions to kaggle challenges and competitions (ongoing updates)
+## ML Challenges
+Scripts with exploratory analysis and solutions to some machine learning challenges. Some of the challenges are proposed in the kaggle community.
 
 * *Titanic-Exploratory-Data-Analysis.ipynb* - [Kaggle Dataset Link](https://www.kaggle.com/c/titanic)
 * *cleaning-commodities.ipynb* - [Kaggle Dataset Link](https://www.kaggle.com/unitednations/international-energy-statistics)
